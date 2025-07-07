@@ -1,0 +1,10 @@
+ErrLogs.txt
+hs_*
+output.txt
+ZB.txt
+replay_pid9084.log
+ChromeBot.jar
+ChromeBot_1.0.jar
+config.properties
+/target/
+*Logs.txt
